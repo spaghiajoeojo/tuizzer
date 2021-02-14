@@ -1,0 +1,31 @@
+.large {
+    width: 600px;
+}
+
+.medium {
+    width: 400px;
+}
+
+.small {
+    width: 300px;
+}
+
+.xsmall {
+    width: 200px;
+}
+
+.size-fixed {
+    min-width: 200px;
+}
+
+.transition-500 {
+    transition: all 500ms ease-in-out;
+}
+
+.bg-surface {
+    background-color: wheat !important;
+}
+
+.text-onsurface {
+    color: grey !important;
+}
